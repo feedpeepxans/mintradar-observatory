@@ -1,0 +1,31 @@
+{
+ "brand": "FirstPrint",
+ "chain_head": "09d49c8e79ad8b4ef5799ed53c200653fbb7292b2444b33170f165c3d11641b3",
+ "alerts": [
+  {
+   "alert_id": "A-#1",
+   "branch": "A",
+   "chain_ts_ms": 1795482404115,
+   "creator": "E4WuDtSt39GpUacPoFnaqU1jSni8LMG3nGt2mWL331NA",
+   "detect_latency_s": 62.2,
+   "features": {
+    "bundle_share": 0.1503,
+    "buy_sol_20s": 132.6398,
+    "distinct_buyers": 137,
+    "top_buyer_share": 0.2262
+   },
+   "filter_version": "v1.0",
+   "graduations": 1,
+   "median_peak_1h": 3.057220892817275,
+   "mint": "2898pi7Q5H6nnchs24k1mecL3ERR6VhLDVuNrhwVpump",
+   "n_priors": 13,
+   "name": "Kimchimas",
+   "posted_ms": 1795482466303,
+   "posted_utc": "2026-11-24T01:07:46.303000+00:00",
+   "prev_hash": "c2ee587794ecf6f328d0ba93c10eb5e5e5a85bb7c52e3f8af262532cd73a5dce",
+   "seq": 1,
+   "symbol": "KIMCHIMAS",
+   "hash": "09d49c8e79ad8b4ef5799ed53c200653fbb7292b2444b33170f165c3d11641b3"
+  }
+ ]
+}
