@@ -1,7 +1,57 @@
 {
  "brand": "MintRadar",
- "chain_head": "384cdc387078b23d3e114f2b9bec5a9bf888e39e6549fdda788e0a4009195901",
+ "chain_head": "5a446580aa75e2df93672e241098ad72708344b87ec911979adcca643b5952fa",
  "alerts": [
+  {
+   "alert_id": "A-#13",
+   "branch": "A",
+   "chain_ts_ms": 1795504377830,
+   "creator": "6MAmqJ7aGtTReML2DezAzmRckQyFoGfKKf6gWVak7P2d",
+   "detect_latency_s": 59.2,
+   "features": {
+    "bundle_share": 0.3826,
+    "buy_sol_20s": 97.0824,
+    "distinct_buyers": 106,
+    "top_buyer_share": 0.2328
+   },
+   "filter_version": "v1.0",
+   "graduations": 2,
+   "median_peak_1h": 7.4150038600061885,
+   "mint": "DXkCsXhXeh2xTfQ8Um8dicQcwseTfuHvDwriTcJLpump",
+   "n_priors": 9,
+   "name": "Satoshi  Coin",
+   "posted_ms": 1795504437058,
+   "posted_utc": "2026-11-24T07:13:57.058000+00:00",
+   "prev_hash": "aeec877e912e1fd419e28b4437d5a850ac71e7f991704f90e6e5a82b4a714e15",
+   "seq": 13,
+   "symbol": "Satoshi",
+   "hash": "5a446580aa75e2df93672e241098ad72708344b87ec911979adcca643b5952fa"
+  },
+  {
+   "alert_id": "A-#12",
+   "branch": "A",
+   "chain_ts_ms": 1795504202397,
+   "creator": "7xhukVGpsSgKNf1TFoLro7mps4PKvMvh6mZgRJCP5gkS",
+   "detect_latency_s": 40.4,
+   "features": {
+    "bundle_share": 0.3162,
+    "buy_sol_20s": 29.3415,
+    "distinct_buyers": 50,
+    "top_buyer_share": 0.1704
+   },
+   "filter_version": "v1.0",
+   "graduations": 3,
+   "median_peak_1h": 1.8670547914814097,
+   "mint": "H5PF6hXxBwNzhWpgZx2y8YcG47naV5vHVS8gLnbUpump",
+   "n_priors": 17,
+   "name": "4CHAN",
+   "posted_ms": 1795504242783,
+   "posted_utc": "2026-11-24T07:10:42.783000+00:00",
+   "prev_hash": "384cdc387078b23d3e114f2b9bec5a9bf888e39e6549fdda788e0a4009195901",
+   "seq": 12,
+   "symbol": "4CHAN",
+   "hash": "aeec877e912e1fd419e28b4437d5a850ac71e7f991704f90e6e5a82b4a714e15"
+  },
   {
    "alert_id": "A-#9",
    "branch": "A",
