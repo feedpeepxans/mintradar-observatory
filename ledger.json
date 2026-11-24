@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "5ef2c370a24bc4c429ab8080927cb3b56022fac70e4c5141771b0b98b185e7b8",
+ "chain_head": "ba179eb439cded9a6e8320bd690814472ad5f9f60eb9fa7255ebdf80c689214c",
  "alerts": [
+  {
+   "alert_id": "A-#16",
+   "branch": "A",
+   "chain_ts_ms": 1795508634911,
+   "creator": "862TYSvRYoiHAK3F3WwTRYAfuGiQaGdxedN9AGvRGWo2",
+   "detect_latency_s": 40.3,
+   "features": {
+    "bundle_share": 0.1157,
+    "buy_sol_20s": 100.1192,
+    "distinct_buyers": 155,
+    "top_buyer_share": 0.1498
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.240843547005128,
+   "mint": "FJCz7nutk8ic4KdXNfZiSwRkReknPkDmkSgMxc4Apump",
+   "n_priors": 22,
+   "name": "The Smol Deer",
+   "posted_ms": 1795508675192,
+   "posted_utc": "2026-11-24T08:24:35.192000+00:00",
+   "prev_hash": "5ef2c370a24bc4c429ab8080927cb3b56022fac70e4c5141771b0b98b185e7b8",
+   "seq": 16,
+   "symbol": "Daisy",
+   "hash": "ba179eb439cded9a6e8320bd690814472ad5f9f60eb9fa7255ebdf80c689214c"
+  },
   {
    "alert_id": "A-#14",
    "branch": "A",
