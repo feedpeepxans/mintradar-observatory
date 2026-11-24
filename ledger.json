@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "9372e52935a9d541c377a6aeb5d8a1bbcb17d92239dd1d322400076e75e7c405",
+ "chain_head": "16f0025da5cb52fee3714ce72718e87be8dd8d7b47e0ce20552e9e2845238310",
  "alerts": [
+  {
+   "alert_id": "A-#5",
+   "branch": "A",
+   "chain_ts_ms": 1795489353795,
+   "creator": "DjM7Tu7whh6P3pGVBfDzwXAx2zaw51GJWrJE3PwtuN7s",
+   "detect_latency_s": 42.9,
+   "features": {
+    "bundle_share": 0.1525,
+    "buy_sol_20s": 98.3711,
+    "distinct_buyers": 107,
+    "top_buyer_share": 0.1423
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.443902911046255,
+   "mint": "9MfNPTh9Z6xCsuMRLyuxmoT3q8ECEBiuJVgKwCR6pump",
+   "n_priors": 35,
+   "name": "Justice for Fatu",
+   "posted_ms": 1795489396728,
+   "posted_utc": "2026-11-24T03:03:16.728000+00:00",
+   "prev_hash": "9372e52935a9d541c377a6aeb5d8a1bbcb17d92239dd1d322400076e75e7c405",
+   "seq": 5,
+   "symbol": "FATU",
+   "hash": "16f0025da5cb52fee3714ce72718e87be8dd8d7b47e0ce20552e9e2845238310"
+  },
   {
    "alert_id": "A-#4",
    "branch": "A",
