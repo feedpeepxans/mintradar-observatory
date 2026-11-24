@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "323ef24ab81042859f38e5e3ab11a3de52f16ebe7c5aeedd10e5bf3214bff46f",
+ "chain_head": "24397d752eca75a69a7c6be59b6fbd77825cf35199e7b60a06ab931cb2f2079d",
  "alerts": [
+  {
+   "alert_id": "A-#8",
+   "branch": "A",
+   "chain_ts_ms": 1795496114140,
+   "creator": "7xhukVGpsSgKNf1TFoLro7mps4PKvMvh6mZgRJCP5gkS",
+   "detect_latency_s": 47.8,
+   "features": {
+    "bundle_share": 0.2106,
+    "buy_sol_20s": 26.7153,
+    "distinct_buyers": 59,
+    "top_buyer_share": 0.131
+   },
+   "filter_version": "v1.0",
+   "graduations": 3,
+   "median_peak_1h": 1.8670547914814097,
+   "mint": "7JmocBo7V41yoxx7itz9BYk2wTjLZXXEfqdUdMYHpump",
+   "n_priors": 16,
+   "name": "Megachile",
+   "posted_ms": 1795496161917,
+   "posted_utc": "2026-11-24T04:56:01.917000+00:00",
+   "prev_hash": "323ef24ab81042859f38e5e3ab11a3de52f16ebe7c5aeedd10e5bf3214bff46f",
+   "seq": 8,
+   "symbol": "MEGACHILE",
+   "hash": "24397d752eca75a69a7c6be59b6fbd77825cf35199e7b60a06ab931cb2f2079d"
+  },
   {
    "alert_id": "A-#7",
    "branch": "A",
