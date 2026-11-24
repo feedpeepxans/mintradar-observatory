@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://feedpeepxans.github.io/mintradar-observatory/sitemap.xml
