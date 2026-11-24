@@ -1,0 +1,16 @@
+{
+ "name": "Poor Dog",
+ "symbol": "PoorDog",
+ "description": "Poor Dog \u2014 the wave is running and the herd is already moving.",
+ "image": "https://feedpeepxans.github.io/mintradar-observatory/coins/poordog.png",
+ "properties": {
+  "category": "meme",
+  "files": [
+   {
+    "type": "image/png",
+    "uri": "https://feedpeepxans.github.io/mintradar-observatory/coins/poordog.png"
+   }
+  ]
+ },
+ "twitter": "https://x.com/mrW0LVE/status/2125270446933500137"
+}
