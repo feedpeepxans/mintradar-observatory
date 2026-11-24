@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "175c50db274b466ddefa5316e19e841b92d85e758c1ae61ea5edf7b2c20df0e4",
+ "chain_head": "323ef24ab81042859f38e5e3ab11a3de52f16ebe7c5aeedd10e5bf3214bff46f",
  "alerts": [
+  {
+   "alert_id": "A-#7",
+   "branch": "A",
+   "chain_ts_ms": 1795495810128,
+   "creator": "84kLjynrCipA4XCZs3qktYvtZQYFXbnLbadmQf8h5uEr",
+   "detect_latency_s": 52.6,
+   "features": {
+    "bundle_share": 0.3015,
+    "buy_sol_20s": 57.1064,
+    "distinct_buyers": 68,
+    "top_buyer_share": 0.0867
+   },
+   "filter_version": "v1.0",
+   "graduations": 1,
+   "median_peak_1h": 3.443586827760993,
+   "mint": "2GWQkxuDfZrfPpaxi7AMeyZ5pBe7kYXciYxHphDmpump",
+   "n_priors": 3,
+   "name": "Tie Cat",
+   "posted_ms": 1795495862714,
+   "posted_utc": "2026-11-24T04:51:02.714000+00:00",
+   "prev_hash": "175c50db274b466ddefa5316e19e841b92d85e758c1ae61ea5edf7b2c20df0e4",
+   "seq": 7,
+   "symbol": "tiecat",
+   "hash": "323ef24ab81042859f38e5e3ab11a3de52f16ebe7c5aeedd10e5bf3214bff46f"
+  },
   {
    "alert_id": "A-#6",
    "branch": "A",
