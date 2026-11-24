@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "24397d752eca75a69a7c6be59b6fbd77825cf35199e7b60a06ab931cb2f2079d",
+ "chain_head": "665c4890e86cded4418167e4eed1605bba5e29ffc979a1a34faab92fcdc5b601",
  "alerts": [
+  {
+   "alert_id": "A-#9",
+   "branch": "A",
+   "chain_ts_ms": 1795496292046,
+   "creator": "SY55oN5zbL4WRqBjZPmJMbHvqocZgFf1Y5GVcG1KXUi",
+   "detect_latency_s": 51.0,
+   "features": {
+    "bundle_share": 0.3388,
+    "buy_sol_20s": 55.2795,
+    "distinct_buyers": 108,
+    "top_buyer_share": 0.0616
+   },
+   "filter_version": "v1.0",
+   "graduations": 2,
+   "median_peak_1h": 1.990737427610664,
+   "mint": "6ENXQGb9eyfkTYm3UbgW2XxWGfEBj4LJUmdaaYgUpump",
+   "n_priors": 14,
+   "name": "Feed The Kids",
+   "posted_ms": 1795496343071,
+   "posted_utc": "2026-11-24T04:59:03.071000+00:00",
+   "prev_hash": "24397d752eca75a69a7c6be59b6fbd77825cf35199e7b60a06ab931cb2f2079d",
+   "seq": 9,
+   "symbol": "Feed",
+   "hash": "665c4890e86cded4418167e4eed1605bba5e29ffc979a1a34faab92fcdc5b601"
+  },
   {
    "alert_id": "A-#8",
    "branch": "A",
