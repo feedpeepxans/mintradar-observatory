@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "09d49c8e79ad8b4ef5799ed53c200653fbb7292b2444b33170f165c3d11641b3",
+ "chain_head": "8ce432e43dba46140ac748d745f966057a1611c3b7e887fe78a1cee49e879c4a",
  "alerts": [
+  {
+   "alert_id": "A-#2",
+   "branch": "A",
+   "chain_ts_ms": 1795486539157,
+   "creator": "8PQxd6VmfGPMyg8WPnfkT9jUTmtE7UsnDmvBKXeAVP9z",
+   "detect_latency_s": 61.5,
+   "features": {
+    "bundle_share": 0.1731,
+    "buy_sol_20s": 114.7198,
+    "distinct_buyers": 143,
+    "top_buyer_share": 0.0697
+   },
+   "filter_version": "v1.0",
+   "graduations": 6,
+   "median_peak_1h": 1.8197050002037554,
+   "mint": "F3EAC3qPLE8LHF1y8bzPQ16WH8Mdn37yxoxzhYVUpump",
+   "n_priors": 92,
+   "name": "Fomomas",
+   "posted_ms": 1795486600676,
+   "posted_utc": "2026-11-24T02:16:40.676000+00:00",
+   "prev_hash": "09d49c8e79ad8b4ef5799ed53c200653fbb7292b2444b33170f165c3d11641b3",
+   "seq": 2,
+   "symbol": "FOMOMAS",
+   "hash": "8ce432e43dba46140ac748d745f966057a1611c3b7e887fe78a1cee49e879c4a"
+  },
   {
    "alert_id": "A-#1",
    "branch": "A",
