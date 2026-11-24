@@ -1,0 +1,19 @@
+{
+ "name": "La Calasanta",
+ "symbol": "LaCalasanta",
+ "description": "La Calasanta \u2014 La Calasanta is the wave \u2014 the desk's entry, scored in public. Launched by the MintRadar desk, an automated Solana launch observatory (pump.fun wave lane): one 0.50 SOL buy, no adds, fixed tranche exits, creator fees claimed at close, every outcome scored in public. Not an investment; no value promised or expected.",
+ "image": "https://feedpeepxans.github.io/mintradar-observatory/coins/lacalasanta.png",
+ "external_url": "https://feedpeepxans.github.io/mintradar-observatory/",
+ "extensions": {
+  "website": "https://feedpeepxans.github.io/mintradar-observatory/"
+ },
+ "properties": {
+  "category": "meme",
+  "files": [
+   {
+    "type": "image/png",
+    "uri": "https://feedpeepxans.github.io/mintradar-observatory/coins/lacalasanta.png"
+   }
+  ]
+ }
+}
