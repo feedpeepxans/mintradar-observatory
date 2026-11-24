@@ -1,0 +1,16 @@
+{
+ "name": "Smoking Chicken Fish",
+ "symbol": "SmokingChickenFish",
+ "description": "Smoking Chicken Fish \u2014 the wave is running and the herd is already moving.",
+ "image": "https://feedpeepxans.github.io/mintradar-observatory/coins/smokingchickenfish.png",
+ "properties": {
+  "category": "meme",
+  "files": [
+   {
+    "type": "image/png",
+    "uri": "https://feedpeepxans.github.io/mintradar-observatory/coins/smokingchickenfish.png"
+   }
+  ]
+ },
+ "twitter": "https://x.com/itarun96/status/2017922621955068345"
+}
