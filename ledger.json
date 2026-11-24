@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "5a446580aa75e2df93672e241098ad72708344b87ec911979adcca643b5952fa",
+ "chain_head": "b37fcbb2a308b9ceea146c4ccbf74a8c9275e01806862b6e68f0720ac506cf51",
  "alerts": [
+  {
+   "alert_id": "A-#14",
+   "branch": "A",
+   "chain_ts_ms": 1795505141695,
+   "creator": "862TYSvRYoiHAK3F3WwTRYAfuGiQaGdxedN9AGvRGWo2",
+   "detect_latency_s": 60.2,
+   "features": {
+    "bundle_share": 0.1563,
+    "buy_sol_20s": 110.4542,
+    "distinct_buyers": 155,
+    "top_buyer_share": 0.0905
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.240843547005128,
+   "mint": "Gz2eosMe4c98ZMg8rbR6xfAoPrEGeJkPCgfZksU6pump",
+   "n_priors": 21,
+   "name": "Pet The Cat",
+   "posted_ms": 1795505201937,
+   "posted_utc": "2026-11-24T07:26:41.937000+00:00",
+   "prev_hash": "5a446580aa75e2df93672e241098ad72708344b87ec911979adcca643b5952fa",
+   "seq": 14,
+   "symbol": "PTC ",
+   "hash": "b37fcbb2a308b9ceea146c4ccbf74a8c9275e01806862b6e68f0720ac506cf51"
+  },
   {
    "alert_id": "A-#13",
    "branch": "A",
