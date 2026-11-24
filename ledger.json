@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "16f0025da5cb52fee3714ce72718e87be8dd8d7b47e0ce20552e9e2845238310",
+ "chain_head": "175c50db274b466ddefa5316e19e841b92d85e758c1ae61ea5edf7b2c20df0e4",
  "alerts": [
+  {
+   "alert_id": "A-#6",
+   "branch": "A",
+   "chain_ts_ms": 1795489655538,
+   "creator": "8PQxd6VmfGPMyg8WPnfkT9jUTmtE7UsnDmvBKXeAVP9z",
+   "detect_latency_s": 34.8,
+   "features": {
+    "bundle_share": 0.3774,
+    "buy_sol_20s": 38.3197,
+    "distinct_buyers": 37,
+    "top_buyer_share": 0.1031
+   },
+   "filter_version": "v1.0",
+   "graduations": 6,
+   "median_peak_1h": 1.8197050002037554,
+   "mint": "97xfLgaWkqECJiXZWzkVhGECUJnERZpuUb6G9b8Hpump",
+   "n_priors": 95,
+   "name": "Official Turkey Coin",
+   "posted_ms": 1795489690294,
+   "posted_utc": "2026-11-24T03:08:10.294000+00:00",
+   "prev_hash": "16f0025da5cb52fee3714ce72718e87be8dd8d7b47e0ce20552e9e2845238310",
+   "seq": 6,
+   "symbol": "TURKEY",
+   "hash": "175c50db274b466ddefa5316e19e841b92d85e758c1ae61ea5edf7b2c20df0e4"
+  },
   {
    "alert_id": "A-#5",
    "branch": "A",
