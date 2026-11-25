@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "f063895d17b0b4f99a26afd9dc85c7e84ebd49ccd8d5d4eb0034b7fd8bc885d3",
+ "chain_head": "68a31642d320b83170448f4855b989b516b44b047fdebdffc0f87ddabb8d2f85",
  "alerts": [
+  {
+   "alert_id": "A-#28",
+   "branch": "A",
+   "chain_ts_ms": 1795567265364,
+   "creator": "DjM7Tu7whh6P3pGVBfDzwXAx2zaw51GJWrJE3PwtuN7s",
+   "detect_latency_s": 56.8,
+   "features": {
+    "bundle_share": 0.3084,
+    "buy_sol_20s": 112.544,
+    "distinct_buyers": 117,
+    "top_buyer_share": 0.0889
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.358425804338899,
+   "mint": "BGFc7b8tZGZHALqzwoYhmEzJuNUNKprUCcjx218fpump",
+   "n_priors": 38,
+   "name": "X Coin",
+   "posted_ms": 1795567322185,
+   "posted_utc": "2026-11-25T00:42:02.185000+00:00",
+   "prev_hash": "f063895d17b0b4f99a26afd9dc85c7e84ebd49ccd8d5d4eb0034b7fd8bc885d3",
+   "seq": 28,
+   "symbol": "X",
+   "hash": "68a31642d320b83170448f4855b989b516b44b047fdebdffc0f87ddabb8d2f85"
+  },
   {
    "alert_id": "A-#27",
    "branch": "A",
