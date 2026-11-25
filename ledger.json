@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "b244a380fe666a9cef2f213dffcdf635d0b91109b366b87b4d30105be1282f72",
+ "chain_head": "f063895d17b0b4f99a26afd9dc85c7e84ebd49ccd8d5d4eb0034b7fd8bc885d3",
  "alerts": [
+  {
+   "alert_id": "A-#27",
+   "branch": "A",
+   "chain_ts_ms": 1795566500897,
+   "creator": "8PQxd6VmfGPMyg8WPnfkT9jUTmtE7UsnDmvBKXeAVP9z",
+   "detect_latency_s": 64.7,
+   "features": {
+    "bundle_share": 0.2498,
+    "buy_sol_20s": 39.4081,
+    "distinct_buyers": 62,
+    "top_buyer_share": 0.0761
+   },
+   "filter_version": "v1.0",
+   "graduations": 6,
+   "median_peak_1h": 1.8330650074755435,
+   "mint": "7x15PbBau7Z6oe6QebxYmDvdFkL1n1HEvvDbWfmcpump",
+   "n_priors": 101,
+   "name": "iFunny",
+   "posted_ms": 1795566565567,
+   "posted_utc": "2026-11-25T00:29:25.567000+00:00",
+   "prev_hash": "b244a380fe666a9cef2f213dffcdf635d0b91109b366b87b4d30105be1282f72",
+   "seq": 27,
+   "symbol": "iFunny",
+   "hash": "f063895d17b0b4f99a26afd9dc85c7e84ebd49ccd8d5d4eb0034b7fd8bc885d3"
+  },
   {
    "alert_id": "A-#26",
    "branch": "A",
