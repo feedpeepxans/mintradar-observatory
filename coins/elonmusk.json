@@ -1,0 +1,16 @@
+{
+ "name": "Elon Musk",
+ "symbol": "ElonMusk",
+ "description": "Elon Musk \u2014 the moment everyone's watching, while it's still live.",
+ "image": "https://feedpeepxans.github.io/mintradar-observatory/coins/elonmusk.png",
+ "properties": {
+  "category": "meme",
+  "files": [
+   {
+    "type": "image/png",
+    "uri": "https://feedpeepxans.github.io/mintradar-observatory/coins/elonmusk.png"
+   }
+  ]
+ },
+ "twitter": "https://x.com/technishan/status/2087968396587528547"
+}
