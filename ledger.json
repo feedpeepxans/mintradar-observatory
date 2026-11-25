@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "78e683e6bca1ee5a4a8e8fb769a8d1b308d4a0dcdcdcd004bc10dafb46b700f9",
+ "chain_head": "8d4c6523609ab0cb036c830da24b5f2484e199a593487d08e5b23d34cd356b3f",
  "alerts": [
+  {
+   "alert_id": "A-#33",
+   "branch": "A",
+   "chain_ts_ms": 1795568345321,
+   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+   "detect_latency_s": 33.9,
+   "features": {
+    "bundle_share": 0.3953,
+    "buy_sol_20s": 22.9643,
+    "distinct_buyers": 30,
+    "top_buyer_share": 0.3566
+   },
+   "filter_version": "v1.0",
+   "graduations": 23,
+   "median_peak_1h": 3.563048466034334,
+   "mint": "DoUFpn1W1xs1dFfHNSyJSVoBBeXxLgkyngWxFHmspump",
+   "n_priors": 105,
+   "name": "Elon Musk ",
+   "posted_ms": 1795568379173,
+   "posted_utc": "2026-11-25T00:59:39.173000+00:00",
+   "prev_hash": "78e683e6bca1ee5a4a8e8fb769a8d1b308d4a0dcdcdcd004bc10dafb46b700f9",
+   "seq": 33,
+   "symbol": "Elon",
+   "hash": "8d4c6523609ab0cb036c830da24b5f2484e199a593487d08e5b23d34cd356b3f"
+  },
   {
    "alert_id": "A-#32",
    "branch": "A",
