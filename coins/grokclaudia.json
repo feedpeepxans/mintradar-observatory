@@ -1,0 +1,16 @@
+{
+ "name": "Grok Claudia",
+ "symbol": "GrokClaudia",
+ "description": "Grok Claudia \u2014 the moment everyone's watching, while it's still live.",
+ "image": "https://feedpeepxans.github.io/mintradar-observatory/coins/grokclaudia.png",
+ "properties": {
+  "category": "meme",
+  "files": [
+   {
+    "type": "image/png",
+    "uri": "https://feedpeepxans.github.io/mintradar-observatory/coins/grokclaudia.png"
+   }
+  ]
+ },
+ "twitter": "https://x.com/javif4_/status/2110232643103010875"
+}
