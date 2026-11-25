@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "68a31642d320b83170448f4855b989b516b44b047fdebdffc0f87ddabb8d2f85",
+ "chain_head": "6d89b8403412bc436b37839e834dc89f4c613285419e75839f631ac2ef75fd89",
  "alerts": [
+  {
+   "alert_id": "A-#29",
+   "branch": "A",
+   "chain_ts_ms": 1795567509472,
+   "creator": "C3rDZEjedce7FjCbezD7puR4MCD6L9M7VbaSyZBRRbWY",
+   "detect_latency_s": 29.5,
+   "features": {
+    "bundle_share": 0.2679,
+    "buy_sol_20s": 70.5403,
+    "distinct_buyers": 102,
+    "top_buyer_share": 0.0709
+   },
+   "filter_version": "v1.0",
+   "graduations": 1,
+   "median_peak_1h": 3.3833319912124136,
+   "mint": "531bTMAyLnpQVTryoeuonFrsstCQpQsW9NKQXQxLpump",
+   "n_priors": 17,
+   "name": "TikTok Coin",
+   "posted_ms": 1795567538968,
+   "posted_utc": "2026-11-25T00:45:38.968000+00:00",
+   "prev_hash": "68a31642d320b83170448f4855b989b516b44b047fdebdffc0f87ddabb8d2f85",
+   "seq": 29,
+   "symbol": "TikTok",
+   "hash": "30c3a363571eaa0e8e9be5f719ab4b299fdd8d656c65b00baa348feace9572f8"
+  },
   {
    "alert_id": "A-#28",
    "branch": "A",
