@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "8d4c6523609ab0cb036c830da24b5f2484e199a593487d08e5b23d34cd356b3f",
+ "chain_head": "5643f08779f81d6a3e0b45a9c97b6764b44beade3e20839375103c11044395cb",
  "alerts": [
+  {
+   "alert_id": "A-#34",
+   "branch": "A",
+   "chain_ts_ms": 1795568500028,
+   "creator": "ARiKujLX4kNXWhCGjbwmQdUYFbk1HkZFwRNzA3gaWtoM",
+   "detect_latency_s": 59.0,
+   "features": {
+    "bundle_share": 0.3836,
+    "buy_sol_20s": 15.2853,
+    "distinct_buyers": 23,
+    "top_buyer_share": 0.1938
+   },
+   "filter_version": "v1.0",
+   "graduations": 1,
+   "median_peak_1h": 1.8910716868052286,
+   "mint": "63Rd6LdPas3SHxyn4URdjoGqhF4Y2aNgnMzJHAiopump",
+   "n_priors": 15,
+   "name": "The Stourbridge Station Cat",
+   "posted_ms": 1795568558994,
+   "posted_utc": "2026-11-25T01:02:38.994000+00:00",
+   "prev_hash": "8d4c6523609ab0cb036c830da24b5f2484e199a593487d08e5b23d34cd356b3f",
+   "seq": 34,
+   "symbol": "George",
+   "hash": "5643f08779f81d6a3e0b45a9c97b6764b44beade3e20839375103c11044395cb"
+  },
   {
    "alert_id": "A-#33",
    "branch": "A",
