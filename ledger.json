@@ -1,7 +1,57 @@
 {
  "brand": "MintRadar",
- "chain_head": "5643f08779f81d6a3e0b45a9c97b6764b44beade3e20839375103c11044395cb",
+ "chain_head": "1eb5cf2e0d3cc24d8918577f73337e9ad00f3a68f1b316e9e42b6699f288c7b4",
  "alerts": [
+  {
+   "alert_id": "A-#36",
+   "branch": "A",
+   "chain_ts_ms": 1795570064321,
+   "creator": "6es4Y1iRCfsEWgYNaRM8BpsYXk2PMVTnfngScoqX558Q",
+   "detect_latency_s": 49.0,
+   "features": {
+    "bundle_share": 0.314,
+    "buy_sol_20s": 20.5964,
+    "distinct_buyers": 37,
+    "top_buyer_share": 0.0971
+   },
+   "filter_version": "v1.0",
+   "graduations": 0,
+   "median_peak_1h": 2.0569294487825593,
+   "mint": "CoibQWUzfFjegTDWQXwHiEfcRzefkiHnDmRm3DFppump",
+   "n_priors": 16,
+   "name": "Kodacoin",
+   "posted_ms": 1795570113364,
+   "posted_utc": "2026-11-25T01:28:33.364000+00:00",
+   "prev_hash": "592cfe6e43da509edfb3fd779a1ab116029a70b8371f377689048cd743d01fb1",
+   "seq": 36,
+   "symbol": "Koda",
+   "hash": "1eb5cf2e0d3cc24d8918577f73337e9ad00f3a68f1b316e9e42b6699f288c7b4"
+  },
+  {
+   "alert_id": "A-#35",
+   "branch": "A",
+   "chain_ts_ms": 1795570008810,
+   "creator": "HSWswnE24GbpS1SFQidx21MXz8KrAeghAbXC6ox6t2ut",
+   "detect_latency_s": 59.1,
+   "features": {
+    "bundle_share": 0.2508,
+    "buy_sol_20s": 49.1391,
+    "distinct_buyers": 79,
+    "top_buyer_share": 0.1628
+   },
+   "filter_version": "v1.0",
+   "graduations": 2,
+   "median_peak_1h": 3.1888183981874576,
+   "mint": "28AWs4J4vgrwMG8d3i5zetvxXrSaM8nRHFoQUaXupump",
+   "n_priors": 3,
+   "name": "The black whale ",
+   "posted_ms": 1795570067911,
+   "posted_utc": "2026-11-25T01:27:47.911000+00:00",
+   "prev_hash": "5643f08779f81d6a3e0b45a9c97b6764b44beade3e20839375103c11044395cb",
+   "seq": 35,
+   "symbol": "BLACKWHALE",
+   "hash": "592cfe6e43da509edfb3fd779a1ab116029a70b8371f377689048cd743d01fb1"
+  },
   {
    "alert_id": "A-#34",
    "branch": "A",
