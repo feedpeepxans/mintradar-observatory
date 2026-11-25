@@ -1,0 +1,15 @@
+{
+ "name": "FrankDeGods",
+ "symbol": "FrankDeGods",
+ "description": "FrankDeGods \u2014 the drama is live on the timeline right now.",
+ "image": "https://feedpeepxans.github.io/mintradar-observatory/coins/frankdegods.png",
+ "properties": {
+  "category": "meme",
+  "files": [
+   {
+    "type": "image/png",
+    "uri": "https://feedpeepxans.github.io/mintradar-observatory/coins/frankdegods.png"
+   }
+  ]
+ }
+}
