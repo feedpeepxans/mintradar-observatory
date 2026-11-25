@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "1eb5cf2e0d3cc24d8918577f73337e9ad00f3a68f1b316e9e42b6699f288c7b4",
+ "chain_head": "2704afabd2e19ac16ccf503ad2061a2c83a2216a6dd94ad0eab605ae97566295",
  "alerts": [
+  {
+   "alert_id": "A-#37",
+   "branch": "A",
+   "chain_ts_ms": 1795571790651,
+   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+   "detect_latency_s": 28.2,
+   "features": {
+    "bundle_share": 0.2049,
+    "buy_sol_20s": 103.9262,
+    "distinct_buyers": 155,
+    "top_buyer_share": 0.1443
+   },
+   "filter_version": "v1.0",
+   "graduations": 23,
+   "median_peak_1h": 3.563048466034334,
+   "mint": "CFb9gspSW7LtfExqbJX13m6cT2WtbYT6Ftp2x8pWpump",
+   "n_priors": 106,
+   "name": "MIL",
+   "posted_ms": 1795571818841,
+   "posted_utc": "2026-11-25T01:56:58.841000+00:00",
+   "prev_hash": "1eb5cf2e0d3cc24d8918577f73337e9ad00f3a68f1b316e9e42b6699f288c7b4",
+   "seq": 37,
+   "symbol": "MIL",
+   "hash": "2704afabd2e19ac16ccf503ad2061a2c83a2216a6dd94ad0eab605ae97566295"
+  },
   {
    "alert_id": "A-#36",
    "branch": "A",
