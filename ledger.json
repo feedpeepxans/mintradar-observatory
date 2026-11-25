@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "ffa266468cb2e4e12d6009af3eee4e6780789f4f423cdce5fd0d4eb7dd4a5167",
+ "chain_head": "82b9cb548797c909c1d56260db8ab54634191bb065276044b865da9e3a8b2a39",
  "alerts": [
+  {
+   "alert_id": "A-#25",
+   "branch": "A",
+   "chain_ts_ms": 1795565859556,
+   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+   "detect_latency_s": 59.1,
+   "features": {
+    "bundle_share": 0.3517,
+    "buy_sol_20s": 103.7788,
+    "distinct_buyers": 132,
+    "top_buyer_share": 0.0964
+   },
+   "filter_version": "v1.0",
+   "graduations": 23,
+   "median_peak_1h": 3.563048466034334,
+   "mint": "GBHQ7ekCC1PfYEt2eJBQaid8JjKnbZZWQLHEvsrpump",
+   "n_priors": 103,
+   "name": "Google",
+   "posted_ms": 1795565918684,
+   "posted_utc": "2026-11-25T00:18:38.684000+00:00",
+   "prev_hash": "ffa266468cb2e4e12d6009af3eee4e6780789f4f423cdce5fd0d4eb7dd4a5167",
+   "seq": 25,
+   "symbol": "GOOG",
+   "hash": "82b9cb548797c909c1d56260db8ab54634191bb065276044b865da9e3a8b2a39"
+  },
   {
    "alert_id": "A-#24",
    "branch": "A",
