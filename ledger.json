@@ -1,7 +1,82 @@
 {
  "brand": "MintRadar",
- "chain_head": "deb7e5cb8d8f77f9383a302cd49fcd986b5d6671304aa8ec9dc38b1a8f6b1dcc",
+ "chain_head": "ffa266468cb2e4e12d6009af3eee4e6780789f4f423cdce5fd0d4eb7dd4a5167",
  "alerts": [
+  {
+   "alert_id": "A-#24",
+   "branch": "A",
+   "chain_ts_ms": 1795564325843,
+   "creator": "8PQxd6VmfGPMyg8WPnfkT9jUTmtE7UsnDmvBKXeAVP9z",
+   "detect_latency_s": 582.8,
+   "features": {
+    "bundle_share": 0.3949,
+    "buy_sol_20s": 28.4945,
+    "distinct_buyers": 38,
+    "top_buyer_share": 0.1045
+   },
+   "filter_version": "v1.0",
+   "graduations": 6,
+   "median_peak_1h": 1.8330650074755435,
+   "mint": "Go8uYHAKZNnezGe1NYBb16UcHos8qYGPEteFBo9tpump",
+   "n_priors": 99,
+   "name": "REDDIT",
+   "posted_ms": 1795564908673,
+   "posted_utc": "2026-11-25T00:01:48.673000+00:00",
+   "prev_hash": "4f7b097c182296d0cee2e93da4f94e3e149e425c9096b6e6ba6fffaf69377e1b",
+   "seq": 24,
+   "symbol": "REDDIT",
+   "hash": "ffa266468cb2e4e12d6009af3eee4e6780789f4f423cdce5fd0d4eb7dd4a5167"
+  },
+  {
+   "alert_id": "A-#23",
+   "branch": "A",
+   "chain_ts_ms": 1795564288661,
+   "creator": "9RG3YAuiQBDdG1esnzSXQ55o265to8nVriQhpwcbK6S2",
+   "detect_latency_s": 615.3,
+   "features": {
+    "bundle_share": 0.1206,
+    "buy_sol_20s": 15.6974,
+    "distinct_buyers": 30,
+    "top_buyer_share": 0.0946
+   },
+   "filter_version": "v1.0",
+   "graduations": 1,
+   "median_peak_1h": 1.887336496434553,
+   "mint": "HnFmT6BkmZbWk24RyB3EApAviRWaxhdqtcfeJexTpump",
+   "n_priors": 21,
+   "name": "MineHash",
+   "posted_ms": 1795564903983,
+   "posted_utc": "2026-11-25T00:01:43.983000+00:00",
+   "prev_hash": "ff6b33349515d298e24bafc3dbaa2be341faaddb71b5ddd3ce8cb6ce4b6a6e59",
+   "seq": 23,
+   "symbol": "MineHash",
+   "hash": "4f7b097c182296d0cee2e93da4f94e3e149e425c9096b6e6ba6fffaf69377e1b"
+  },
+  {
+   "alert_id": "A-#22",
+   "branch": "A",
+   "chain_ts_ms": 1795564261753,
+   "creator": "8hmu3N1i8x6FfrySuVDiEcCyYksKQqM9vCv4rvj1dpbM",
+   "detect_latency_s": 630.1,
+   "features": {
+    "bundle_share": 0.2051,
+    "buy_sol_20s": 5.6204,
+    "distinct_buyers": 11,
+    "top_buyer_share": 0.3203
+   },
+   "filter_version": "v1.0",
+   "graduations": 2,
+   "median_peak_1h": 4.212209567680784,
+   "mint": "Cq6wgpPNCnX8fnzvJtSsRSGtdeBzXQb18Ykk92Depump",
+   "n_priors": 9,
+   "name": "Ava The Tiger",
+   "posted_ms": 1795564891860,
+   "posted_utc": "2026-11-25T00:01:31.860000+00:00",
+   "prev_hash": "deb7e5cb8d8f77f9383a302cd49fcd986b5d6671304aa8ec9dc38b1a8f6b1dcc",
+   "seq": 22,
+   "symbol": "AVA",
+   "hash": "ff6b33349515d298e24bafc3dbaa2be341faaddb71b5ddd3ce8cb6ce4b6a6e59"
+  },
   {
    "alert_id": "A-#18",
    "branch": "A",
