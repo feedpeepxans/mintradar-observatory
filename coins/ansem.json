@@ -1,0 +1,16 @@
+{
+ "name": "Ansem",
+ "symbol": "Ansem",
+ "description": "Ansem \u2014 the drama is live on the timeline right now.",
+ "image": "https://feedpeepxans.github.io/mintradar-observatory/coins/ansem.png",
+ "properties": {
+  "category": "meme",
+  "files": [
+   {
+    "type": "image/png",
+    "uri": "https://feedpeepxans.github.io/mintradar-observatory/coins/ansem.png"
+   }
+  ]
+ },
+ "twitter": "https://x.com/JamesWynnReal/status/2125436352321974547"
+}
