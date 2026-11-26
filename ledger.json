@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "415078778c4290f00221663ad466d8f175f302c91304d07a246c2f74513bf7e5",
+ "chain_head": "69be616a22c63240dfafdd53494303f83edf33737031832a17840e99ebbc49b9",
  "alerts": [
+  {
+   "alert_id": "A-#44",
+   "branch": "A",
+   "chain_ts_ms": 1795673405309,
+   "creator": "7xhukVGpsSgKNf1TFoLro7mps4PKvMvh6mZgRJCP5gkS",
+   "detect_latency_s": 76.8,
+   "features": {
+    "bundle_share": 0.2589,
+    "buy_sol_20s": 52.0495,
+    "distinct_buyers": 73,
+    "top_buyer_share": 0.1518
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.073106551177007,
+   "mint": "8NAbRoDMMygoYLQfGxzo6tPxM5EqXiEwntwSrfFapump",
+   "n_priors": 21,
+   "name": "Wassiemas",
+   "posted_ms": 1795673482060,
+   "posted_utc": "2026-11-26T06:11:22.060000+00:00",
+   "prev_hash": "415078778c4290f00221663ad466d8f175f302c91304d07a246c2f74513bf7e5",
+   "seq": 44,
+   "symbol": "Wassiemas",
+   "hash": "69be616a22c63240dfafdd53494303f83edf33737031832a17840e99ebbc49b9"
+  },
   {
    "alert_id": "A-#43",
    "branch": "A",
