@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "c491b4561f0ec8f93f62effd11b6769bb70b93bcf3acb7084c1872e8fab70b40",
+ "chain_head": "1f9a87c23d2bdfb6622e74a05c603bddd43d4dcc849571268a52e236275afaf3",
  "alerts": [
+  {
+   "alert_id": "A-#53",
+   "branch": "A",
+   "chain_ts_ms": 1795725513966,
+   "creator": "E4WuDtSt39GpUacPoFnaqU1jSni8LMG3nGt2mWL331NA",
+   "detect_latency_s": 23.9,
+   "features": {
+    "bundle_share": 0.1948,
+    "buy_sol_20s": 86.0745,
+    "distinct_buyers": 259,
+    "top_buyer_share": 0.0929
+   },
+   "filter_version": "v1.0",
+   "graduations": 1,
+   "median_peak_1h": 2.118207698423897,
+   "mint": "28CqCuiouXm3mRVa79DNGKZb9uPQnVXTriLmmowrpump",
+   "n_priors": 23,
+   "name": "Secret Santa",
+   "posted_ms": 1795725537868,
+   "posted_utc": "2026-11-26T20:38:57.868000+00:00",
+   "prev_hash": "c491b4561f0ec8f93f62effd11b6769bb70b93bcf3acb7084c1872e8fab70b40",
+   "seq": 53,
+   "symbol": "SANTA",
+   "hash": "1f9a87c23d2bdfb6622e74a05c603bddd43d4dcc849571268a52e236275afaf3"
+  },
   {
    "alert_id": "A-#52",
    "branch": "A",
