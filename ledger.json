@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "1f9a87c23d2bdfb6622e74a05c603bddd43d4dcc849571268a52e236275afaf3",
+ "chain_head": "fdaa06a92b6d0dfafa2610485fce9a76adf26b9b7f8bfb80db5e35a48990d865",
  "alerts": [
+  {
+   "alert_id": "A-#54",
+   "branch": "A",
+   "chain_ts_ms": 1795729059279,
+   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+   "detect_latency_s": 21.9,
+   "features": {
+    "bundle_share": 0.334,
+    "buy_sol_20s": 68.7945,
+    "distinct_buyers": 113,
+    "top_buyer_share": 0.1337
+   },
+   "filter_version": "v1.0",
+   "graduations": 23,
+   "median_peak_1h": 3.652046317508022,
+   "mint": "GqUqZkKsagAhMpR6qSKBh3JXLkMTXEsW7CaTZ6Sgpump",
+   "n_priors": 114,
+   "name": "WAGMI",
+   "posted_ms": 1795729081133,
+   "posted_utc": "2026-11-26T21:38:01.133000+00:00",
+   "prev_hash": "1f9a87c23d2bdfb6622e74a05c603bddd43d4dcc849571268a52e236275afaf3",
+   "seq": 54,
+   "symbol": "WAGMI",
+   "hash": "fdaa06a92b6d0dfafa2610485fce9a76adf26b9b7f8bfb80db5e35a48990d865"
+  },
   {
    "alert_id": "A-#53",
    "branch": "A",
