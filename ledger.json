@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "2742467e238d9cc9be7b38b3a5d4506fa3014f0d4d4e9fde0aa9cf493014565c",
+ "chain_head": "ce42b05104a5e4c8654ddca360b85431012ed6bcd4571803f795449feba81cdd",
  "alerts": [
+  {
+   "alert_id": "A-#51",
+   "branch": "A",
+   "chain_ts_ms": 1795696305423,
+   "creator": "DxQ1iNidsGap2kr14VdEzA8NheqXabfh6fRkvZQbnZVY",
+   "detect_latency_s": 26.2,
+   "features": {
+    "bundle_share": 0.3651,
+    "buy_sol_20s": 40.6634,
+    "distinct_buyers": 86,
+    "top_buyer_share": 0.1721
+   },
+   "filter_version": "v1.0",
+   "graduations": 6,
+   "median_peak_1h": 2.687109940443843,
+   "mint": "T6wtf42QybibBXmbYU8shb4KEeVUPc7T7Pw2PtKpump",
+   "n_priors": 30,
+   "name": "\u3055\u3044\u305f\u307e\u30c8\u30fc\u30af\u30f3",
+   "posted_ms": 1795696331639,
+   "posted_utc": "2026-11-26T12:32:11.639000+00:00",
+   "prev_hash": "2742467e238d9cc9be7b38b3a5d4506fa3014f0d4d4e9fde0aa9cf493014565c",
+   "seq": 51,
+   "symbol": "SAITAMA",
+   "hash": "ce42b05104a5e4c8654ddca360b85431012ed6bcd4571803f795449feba81cdd"
+  },
   {
    "alert_id": "A-#50",
    "branch": "A",
