@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "6b6239d8fe38015edbd6e6ff781eafcbb0cf49db2ac5e9d1892a056f6cef720c",
+ "chain_head": "6479372369eb554c53170916480d5d0c473b216c30b69290ef76475cd2842462",
  "alerts": [
+  {
+   "alert_id": "A-#40",
+   "branch": "A",
+   "chain_ts_ms": 1795654705643,
+   "creator": "C3rDZEjedce7FjCbezD7puR4MCD6L9M7VbaSyZBRRbWY",
+   "detect_latency_s": 76.5,
+   "features": {
+    "bundle_share": 0.3308,
+    "buy_sol_20s": 89.8918,
+    "distinct_buyers": 100,
+    "top_buyer_share": 0.0747
+   },
+   "filter_version": "v1.0",
+   "graduations": 2,
+   "median_peak_1h": 3.7988570197288745,
+   "mint": "6P4teY16DcYw6A77BggtkRQ8KAKbt3kphk4NkwdEpump",
+   "n_priors": 19,
+   "name": "Catching Predators",
+   "posted_ms": 1795654782093,
+   "posted_utc": "2026-11-26T00:59:42.093000+00:00",
+   "prev_hash": "6b6239d8fe38015edbd6e6ff781eafcbb0cf49db2ac5e9d1892a056f6cef720c",
+   "seq": 40,
+   "symbol": "Predators",
+   "hash": "6479372369eb554c53170916480d5d0c473b216c30b69290ef76475cd2842462"
+  },
   {
    "alert_id": "A-#37",
    "branch": "A",
