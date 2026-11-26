@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "69be616a22c63240dfafdd53494303f83edf33737031832a17840e99ebbc49b9",
+ "chain_head": "a69936e9c87fdfa2ee28f7996c2f2244fcbe503e030bfeb14044ba17cc70d127",
  "alerts": [
+  {
+   "alert_id": "A-#45",
+   "branch": "A",
+   "chain_ts_ms": 1795674730869,
+   "creator": "9iaawVBEsFG35PSwd4PahwT8fYNQe9XYuRdWm872dUqY",
+   "detect_latency_s": 79.9,
+   "features": {
+    "bundle_share": 0.2391,
+    "buy_sol_20s": 31.0666,
+    "distinct_buyers": 28,
+    "top_buyer_share": 0.3224
+   },
+   "filter_version": "v1.0",
+   "graduations": 3,
+   "median_peak_1h": 2.3531677527254082,
+   "mint": "5wUGBKcUbUmZ3JbLAnd4wvondgEVbceWeQP562frpump",
+   "n_priors": 108,
+   "name": "X-mas",
+   "posted_ms": 1795674810720,
+   "posted_utc": "2026-11-26T06:33:30.720000+00:00",
+   "prev_hash": "69be616a22c63240dfafdd53494303f83edf33737031832a17840e99ebbc49b9",
+   "seq": 45,
+   "symbol": "Xmas",
+   "hash": "a69936e9c87fdfa2ee28f7996c2f2244fcbe503e030bfeb14044ba17cc70d127"
+  },
   {
    "alert_id": "A-#44",
    "branch": "A",
