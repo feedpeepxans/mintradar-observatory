@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "a69936e9c87fdfa2ee28f7996c2f2244fcbe503e030bfeb14044ba17cc70d127",
+ "chain_head": "2a8357ea9d64bd60e811813c7561b153484e0f0120ab4049faec5bf1821432bd",
  "alerts": [
+  {
+   "alert_id": "A-#46",
+   "branch": "A",
+   "chain_ts_ms": 1795682869593,
+   "creator": "9iaawVBEsFG35PSwd4PahwT8fYNQe9XYuRdWm872dUqY",
+   "detect_latency_s": 66.5,
+   "features": {
+    "bundle_share": 0.2257,
+    "buy_sol_20s": 13.3079,
+    "distinct_buyers": 15,
+    "top_buyer_share": 0.2257
+   },
+   "filter_version": "v1.0",
+   "graduations": 3,
+   "median_peak_1h": 2.3531677527254082,
+   "mint": "EvPSZbai9irBznvRUGSjvwPE82xPbnn1exY4WfrGpump",
+   "n_priors": 109,
+   "name": "pegging the dollar",
+   "posted_ms": 1795682936065,
+   "posted_utc": "2026-11-26T08:48:56.065000+00:00",
+   "prev_hash": "a69936e9c87fdfa2ee28f7996c2f2244fcbe503e030bfeb14044ba17cc70d127",
+   "seq": 46,
+   "symbol": "pegcoin",
+   "hash": "2a8357ea9d64bd60e811813c7561b153484e0f0120ab4049faec5bf1821432bd"
+  },
   {
    "alert_id": "A-#45",
    "branch": "A",
