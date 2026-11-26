@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "2a8357ea9d64bd60e811813c7561b153484e0f0120ab4049faec5bf1821432bd",
+ "chain_head": "7d28963a6f0619037cbe96dc620cb3adc6004fc6ea0a77d392d61c6c9c930fec",
  "alerts": [
+  {
+   "alert_id": "A-#47",
+   "branch": "A",
+   "chain_ts_ms": 1795683748946,
+   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+   "detect_latency_s": 22.2,
+   "features": {
+    "bundle_share": 0.3474,
+    "buy_sol_20s": 89.1912,
+    "distinct_buyers": 96,
+    "top_buyer_share": 0.1906
+   },
+   "filter_version": "v1.0",
+   "graduations": 23,
+   "median_peak_1h": 3.702325275248755,
+   "mint": "7xEK7h73pqKEXxV11L29NpAgTBR2CitA58BnFPBEpump",
+   "n_priors": 113,
+   "name": "Jeffery Epstein",
+   "posted_ms": 1795683771153,
+   "posted_utc": "2026-11-26T09:02:51.153000+00:00",
+   "prev_hash": "2a8357ea9d64bd60e811813c7561b153484e0f0120ab4049faec5bf1821432bd",
+   "seq": 47,
+   "symbol": "Epstein",
+   "hash": "7d28963a6f0619037cbe96dc620cb3adc6004fc6ea0a77d392d61c6c9c930fec"
+  },
   {
    "alert_id": "A-#46",
    "branch": "A",
