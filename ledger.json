@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "ce42b05104a5e4c8654ddca360b85431012ed6bcd4571803f795449feba81cdd",
+ "chain_head": "c491b4561f0ec8f93f62effd11b6769bb70b93bcf3acb7084c1872e8fab70b40",
  "alerts": [
+  {
+   "alert_id": "A-#52",
+   "branch": "A",
+   "chain_ts_ms": 1795721028511,
+   "creator": "AN2wBKMLvM9TufKBFHRpZNUD7qa5tgadWPKy4hSpU9V9",
+   "detect_latency_s": 83.6,
+   "features": {
+    "bundle_share": 0.3728,
+    "buy_sol_20s": 28.6036,
+    "distinct_buyers": 34,
+    "top_buyer_share": 0.2692
+   },
+   "filter_version": "v1.0",
+   "graduations": 1,
+   "median_peak_1h": 2.0047596880047736,
+   "mint": "4DeyY6VZzQ8URiF23htFTxXSTsf11QQGUwS9k1hfPuXo",
+   "n_priors": 19,
+   "name": "The Thanksgiving Runner",
+   "posted_ms": 1795721112072,
+   "posted_utc": "2026-11-26T19:25:12.072000+00:00",
+   "prev_hash": "ce42b05104a5e4c8654ddca360b85431012ed6bcd4571803f795449feba81cdd",
+   "seq": 52,
+   "symbol": "DOLLY",
+   "hash": "c491b4561f0ec8f93f62effd11b6769bb70b93bcf3acb7084c1872e8fab70b40"
+  },
   {
    "alert_id": "A-#51",
    "branch": "A",
