@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "ad69291efb355e91a5d62009b941409bf90e72ede4e78e2b1adf44e05ded503e",
+ "chain_head": "1ffe8173c9e9b6c3e4b89a8638c929fac83a9aa14917a1f2fdd3d0ab80434727",
  "alerts": [
+  {
+   "alert_id": "A-#49",
+   "branch": "A",
+   "chain_ts_ms": 1795688099278,
+   "creator": "DxQ1iNidsGap2kr14VdEzA8NheqXabfh6fRkvZQbnZVY",
+   "detect_latency_s": 26.4,
+   "features": {
+    "bundle_share": 0.2814,
+    "buy_sol_20s": 79.071,
+    "distinct_buyers": 106,
+    "top_buyer_share": 0.1644
+   },
+   "filter_version": "v1.0",
+   "graduations": 6,
+   "median_peak_1h": 3.5666418508987605,
+   "mint": "DMyzQaECcUJJvuYe9A6UCWUxCqFdNj2rDRTSRyqxpump",
+   "n_priors": 29,
+   "name": "McRib",
+   "posted_ms": 1795688125681,
+   "posted_utc": "2026-11-26T10:15:25.681000+00:00",
+   "prev_hash": "ad69291efb355e91a5d62009b941409bf90e72ede4e78e2b1adf44e05ded503e",
+   "seq": 49,
+   "symbol": "McRib",
+   "hash": "1ffe8173c9e9b6c3e4b89a8638c929fac83a9aa14917a1f2fdd3d0ab80434727"
+  },
   {
    "alert_id": "A-#48",
    "branch": "A",
