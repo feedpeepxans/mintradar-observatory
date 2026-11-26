@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "4f95e0571b00f490932219450982c2710a2a3a579fd7d009ee5163a97ef1bbad",
+ "chain_head": "415078778c4290f00221663ad466d8f175f302c91304d07a246c2f74513bf7e5",
  "alerts": [
+  {
+   "alert_id": "A-#43",
+   "branch": "A",
+   "chain_ts_ms": 1795668390297,
+   "creator": "edcow7o5VGsZEhkrFy21XuDfR3m3YWU9jq6RyjcczoP",
+   "detect_latency_s": 216.4,
+   "features": {
+    "bundle_share": 0.2706,
+    "buy_sol_20s": 57.8082,
+    "distinct_buyers": 94,
+    "top_buyer_share": 0.1384
+   },
+   "filter_version": "v1.0",
+   "graduations": 3,
+   "median_peak_1h": 2.3452138348476996,
+   "mint": "3GtTyiu136Q2ptM3Q5HnVSZUyccFRQyjMPnj14w9pump",
+   "n_priors": 29,
+   "name": "coin",
+   "posted_ms": 1795668606742,
+   "posted_utc": "2026-11-26T04:50:06.742000+00:00",
+   "prev_hash": "4f95e0571b00f490932219450982c2710a2a3a579fd7d009ee5163a97ef1bbad",
+   "seq": 43,
+   "symbol": "coin",
+   "hash": "415078778c4290f00221663ad466d8f175f302c91304d07a246c2f74513bf7e5"
+  },
   {
    "alert_id": "A-#42",
    "branch": "A",
