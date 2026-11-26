@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "7d28963a6f0619037cbe96dc620cb3adc6004fc6ea0a77d392d61c6c9c930fec",
+ "chain_head": "ad69291efb355e91a5d62009b941409bf90e72ede4e78e2b1adf44e05ded503e",
  "alerts": [
+  {
+   "alert_id": "A-#48",
+   "branch": "A",
+   "chain_ts_ms": 1795686198679,
+   "creator": "6PX4xuN4TLPCL2GqtUZf2Q6iTjwfGbc9vcK33sinN3wP",
+   "detect_latency_s": 29.4,
+   "features": {
+    "bundle_share": 0.2458,
+    "buy_sol_20s": 12.0865,
+    "distinct_buyers": 10,
+    "top_buyer_share": 0.2458
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.816327404391391,
+   "mint": "6CXSJ1sivJMS2RNM1tGENw265jo2sxGWD6QCfs8ppump",
+   "n_priors": 33,
+   "name": "wiener ",
+   "posted_ms": 1795686228113,
+   "posted_utc": "2026-11-26T09:43:48.113000+00:00",
+   "prev_hash": "7d28963a6f0619037cbe96dc620cb3adc6004fc6ea0a77d392d61c6c9c930fec",
+   "seq": 48,
+   "symbol": "wiener",
+   "hash": "ad69291efb355e91a5d62009b941409bf90e72ede4e78e2b1adf44e05ded503e"
+  },
   {
    "alert_id": "A-#47",
    "branch": "A",
