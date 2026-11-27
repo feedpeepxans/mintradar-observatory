@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "03c32a3991947fdfca6bca1c3c13f311d6d649e94584a21e8d085ccb3f1dbd0f",
+ "chain_head": "a9b892d0f695d5e2446336ea9e1999a45eed6b5f9c90bb0a128b2ddf98287023",
  "alerts": [
+  {
+   "alert_id": "A-#69",
+   "branch": "A",
+   "chain_ts_ms": 1795801974936,
+   "creator": "DjM7Tu7whh6P3pGVBfDzwXAx2zaw51GJWrJE3PwtuN7s",
+   "detect_latency_s": 28.5,
+   "features": {
+    "bundle_share": 0.2826,
+    "buy_sol_20s": 84.0956,
+    "distinct_buyers": 98,
+    "top_buyer_share": 0.0951
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.2076625539134316,
+   "mint": "3RJ2F58A1FqZurcwphhhR1T3ecSRtHJLCqY52mLSpump",
+   "n_priors": 42,
+   "name": "\u2800",
+   "posted_ms": 1795802003467,
+   "posted_utc": "2026-11-27T17:53:23.467000+00:00",
+   "prev_hash": "03c32a3991947fdfca6bca1c3c13f311d6d649e94584a21e8d085ccb3f1dbd0f",
+   "seq": 69,
+   "symbol": "\u2800",
+   "hash": "a9b892d0f695d5e2446336ea9e1999a45eed6b5f9c90bb0a128b2ddf98287023"
+  },
   {
    "alert_id": "A-#68",
    "branch": "A",
