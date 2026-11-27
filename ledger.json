@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "07924704b8144573b64aec7504bd411d8980406ef1daf722187a0fc3ea164d82",
+ "chain_head": "7e6159c970c44633fef9aef0049e6c7df7fc8408b51549536a58262d6217f987",
  "alerts": [
+  {
+   "alert_id": "A-#58",
+   "branch": "A",
+   "chain_ts_ms": 1795752806345,
+   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+   "detect_latency_s": 30.6,
+   "features": {
+    "bundle_share": 0.3061,
+    "buy_sol_20s": 63.7046,
+    "distinct_buyers": 101,
+    "top_buyer_share": 0.0753
+   },
+   "filter_version": "v1.0",
+   "graduations": 23,
+   "median_peak_1h": 3.5243295723013786,
+   "mint": "AgBxPNBFmBks58rtVnp2ZW5WHtE2968qTPWgDEvbpump",
+   "n_priors": 118,
+   "name": "Christmas Coin",
+   "posted_ms": 1795752836993,
+   "posted_utc": "2026-11-27T04:13:56.993000+00:00",
+   "prev_hash": "07924704b8144573b64aec7504bd411d8980406ef1daf722187a0fc3ea164d82",
+   "seq": 58,
+   "symbol": "Christmas",
+   "hash": "7e6159c970c44633fef9aef0049e6c7df7fc8408b51549536a58262d6217f987"
+  },
   {
    "alert_id": "A-#57",
    "branch": "A",
