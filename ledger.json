@@ -1,7 +1,57 @@
 {
  "brand": "MintRadar",
- "chain_head": "7e6159c970c44633fef9aef0049e6c7df7fc8408b51549536a58262d6217f987",
+ "chain_head": "520cb6aa9a8ab8dbccdc04c6de5c8e4b8b44342f74f44e78bf5894b41978cf2f",
  "alerts": [
+  {
+   "alert_id": "A-#60",
+   "branch": "A",
+   "chain_ts_ms": 1795756810071,
+   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+   "detect_latency_s": 24.2,
+   "features": {
+    "bundle_share": 0.3866,
+    "buy_sol_20s": 69.5043,
+    "distinct_buyers": 112,
+    "top_buyer_share": 0.0978
+   },
+   "filter_version": "v1.0",
+   "graduations": 24,
+   "median_peak_1h": 3.5243295723013786,
+   "mint": "AgTqxqLAy6VXMrYdjSNgXge3WH94JzgedrCxVBHApump",
+   "n_priors": 119,
+   "name": "Black Friday",
+   "posted_ms": 1795756834245,
+   "posted_utc": "2026-11-27T05:20:34.245000+00:00",
+   "prev_hash": "d3707c29417f2af5e51e3da52267899f79f7230c48f8d47554bb24950b2b32e4",
+   "seq": 60,
+   "symbol": "Friday",
+   "hash": "520cb6aa9a8ab8dbccdc04c6de5c8e4b8b44342f74f44e78bf5894b41978cf2f"
+  },
+  {
+   "alert_id": "A-#59",
+   "branch": "A",
+   "chain_ts_ms": 1795756608383,
+   "creator": "CzwWvTVn39dSd4LiVc6W9gZxgu36737M2fcX4EWhquh4",
+   "detect_latency_s": 36.9,
+   "features": {
+    "bundle_share": 0.3326,
+    "buy_sol_20s": 73.4691,
+    "distinct_buyers": 117,
+    "top_buyer_share": 0.1075
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 4.539170285211152,
+   "mint": "5LmBkocE4RTFScuWw2UXrJDWvgAVVYpyryP5CZ8vpump",
+   "n_priors": 18,
+   "name": "Santa Inu",
+   "posted_ms": 1795756645298,
+   "posted_utc": "2026-11-27T05:17:25.298000+00:00",
+   "prev_hash": "7e6159c970c44633fef9aef0049e6c7df7fc8408b51549536a58262d6217f987",
+   "seq": 59,
+   "symbol": "SI",
+   "hash": "d3707c29417f2af5e51e3da52267899f79f7230c48f8d47554bb24950b2b32e4"
+  },
   {
    "alert_id": "A-#58",
    "branch": "A",
