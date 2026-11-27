@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "0390421514c01417d4522dec7e69640bba6594de71e7693d7bce7005abe3dfc8",
+ "chain_head": "07924704b8144573b64aec7504bd411d8980406ef1daf722187a0fc3ea164d82",
  "alerts": [
+  {
+   "alert_id": "A-#57",
+   "branch": "A",
+   "chain_ts_ms": 1795745763570,
+   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+   "detect_latency_s": 22.2,
+   "features": {
+    "bundle_share": 0.2913,
+    "buy_sol_20s": 69.7269,
+    "distinct_buyers": 86,
+    "top_buyer_share": 0.2438
+   },
+   "filter_version": "v1.0",
+   "graduations": 23,
+   "median_peak_1h": 3.601767359767289,
+   "mint": "A1ndHqGDtEUFegc5LTp8MPbnxeveHoPS9GuEiTTppump",
+   "n_priors": 116,
+   "name": "The Black Bull",
+   "posted_ms": 1795745785765,
+   "posted_utc": "2026-11-27T02:16:25.765000+00:00",
+   "prev_hash": "0390421514c01417d4522dec7e69640bba6594de71e7693d7bce7005abe3dfc8",
+   "seq": 57,
+   "symbol": "Bull",
+   "hash": "07924704b8144573b64aec7504bd411d8980406ef1daf722187a0fc3ea164d82"
+  },
   {
    "alert_id": "A-#56",
    "branch": "A",
