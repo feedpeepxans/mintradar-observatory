@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "47ddd12564dde105a0219b5c37eda3dd5feaf188377307375f08460e45f5ec2c",
+ "chain_head": "0390421514c01417d4522dec7e69640bba6594de71e7693d7bce7005abe3dfc8",
  "alerts": [
+  {
+   "alert_id": "A-#56",
+   "branch": "A",
+   "chain_ts_ms": 1795739992884,
+   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+   "detect_latency_s": 27.4,
+   "features": {
+    "bundle_share": 0.3629,
+    "buy_sol_20s": 53.2627,
+    "distinct_buyers": 77,
+    "top_buyer_share": 0.1877
+   },
+   "filter_version": "v1.0",
+   "graduations": 23,
+   "median_peak_1h": 3.601767359767289,
+   "mint": "DtnDgVtJBgc88wHvnSZMCtPfTkSgVw31djHE5hDApump",
+   "n_priors": 115,
+   "name": "COGECOIN",
+   "posted_ms": 1795740020293,
+   "posted_utc": "2026-11-27T00:40:20.293000+00:00",
+   "prev_hash": "47ddd12564dde105a0219b5c37eda3dd5feaf188377307375f08460e45f5ec2c",
+   "seq": 56,
+   "symbol": "COGE",
+   "hash": "0390421514c01417d4522dec7e69640bba6594de71e7693d7bce7005abe3dfc8"
+  },
   {
    "alert_id": "A-#55",
    "branch": "A",
