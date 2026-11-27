@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "6151389344774ebaa2a89f63426e00cab39e914c9d87af95cb205c5dc7ab1316",
+ "chain_head": "a2f6861f86cda885589fb0cbb60bf4a723f4a5654248760960ff802fba1998d0",
  "alerts": [
+  {
+   "alert_id": "A-#66",
+   "branch": "A",
+   "chain_ts_ms": 1795795528322,
+   "creator": "8QnWt1Epy5ErL9xJbzbKAfhQCxxMsHZ8if35TfQp26BE",
+   "detect_latency_s": 21.3,
+   "features": {
+    "bundle_share": 0.3656,
+    "buy_sol_20s": 108.57,
+    "distinct_buyers": 147,
+    "top_buyer_share": 0.0737
+   },
+   "filter_version": "v1.0",
+   "graduations": 2,
+   "median_peak_1h": 3.926770961170464,
+   "mint": "9WbZ66ZoPJ8XwLaRhb2xkEVzbXbopWVwtcRN63Mepump",
+   "n_priors": 6,
+   "name": "The Indomitable Lion",
+   "posted_ms": 1795795549598,
+   "posted_utc": "2026-11-27T16:05:49.598000+00:00",
+   "prev_hash": "6151389344774ebaa2a89f63426e00cab39e914c9d87af95cb205c5dc7ab1316",
+   "seq": 66,
+   "symbol": "LION",
+   "hash": "a2f6861f86cda885589fb0cbb60bf4a723f4a5654248760960ff802fba1998d0"
+  },
   {
    "alert_id": "A-#65",
    "branch": "A",
