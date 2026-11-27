@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "80c75ca3f452ab3a5faf378d21329240f6eac7597318f0bc37e422dec0f9bf5f",
+ "chain_head": "03c32a3991947fdfca6bca1c3c13f311d6d649e94584a21e8d085ccb3f1dbd0f",
  "alerts": [
+  {
+   "alert_id": "A-#68",
+   "branch": "A",
+   "chain_ts_ms": 1795799101442,
+   "creator": "2D8RhdA5brEVNBdiLGa9q4SPQN3NWbWafU5RLQJguwx9",
+   "detect_latency_s": 21.1,
+   "features": {
+    "bundle_share": 0.179,
+    "buy_sol_20s": 100.4056,
+    "distinct_buyers": 165,
+    "top_buyer_share": 0.17
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.7845348363450615,
+   "mint": "AmRK6MMZhurRPPnMPkSDDa6gM2FX8TF9BHQwsWt1pump",
+   "n_priors": 11,
+   "name": "FRACTALS",
+   "posted_ms": 1795799122564,
+   "posted_utc": "2026-11-27T17:05:22.564000+00:00",
+   "prev_hash": "80c75ca3f452ab3a5faf378d21329240f6eac7597318f0bc37e422dec0f9bf5f",
+   "seq": 68,
+   "symbol": "FRACTALS",
+   "hash": "03c32a3991947fdfca6bca1c3c13f311d6d649e94584a21e8d085ccb3f1dbd0f"
+  },
   {
    "alert_id": "A-#67",
    "branch": "A",
