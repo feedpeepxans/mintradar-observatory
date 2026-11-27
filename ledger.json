@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "96f28d05bc2650d785761eb4cbab596cd891e574a867b5e7f8d69de6a89499ad",
+ "chain_head": "cf4f726a766c1d945dfa3f7665ace5db334543558ca43551e7e264e4b384edf7",
  "alerts": [
+  {
+   "alert_id": "A-#64",
+   "branch": "A",
+   "chain_ts_ms": 1795764271624,
+   "creator": "Gm5RVuaDgLLtBu6KnbBJ7AWxADKJm7JHTtRxLw8kg6Xm",
+   "detect_latency_s": 21.5,
+   "features": {
+    "bundle_share": 0.1829,
+    "buy_sol_20s": 54.4105,
+    "distinct_buyers": 114,
+    "top_buyer_share": 0.0919
+   },
+   "filter_version": "v1.0",
+   "graduations": 2,
+   "median_peak_1h": 2.8481325979387586,
+   "mint": "9PBVXxx7Hn72EJttB8X2besqJtbUvE4iN3Cc3ubUpump",
+   "n_priors": 5,
+   "name": "Launch Nothing",
+   "posted_ms": 1795764293140,
+   "posted_utc": "2026-11-27T07:24:53.140000+00:00",
+   "prev_hash": "96f28d05bc2650d785761eb4cbab596cd891e574a867b5e7f8d69de6a89499ad",
+   "seq": 64,
+   "symbol": "NOTHING",
+   "hash": "cf4f726a766c1d945dfa3f7665ace5db334543558ca43551e7e264e4b384edf7"
+  },
   {
    "alert_id": "A-#63",
    "branch": "A",
