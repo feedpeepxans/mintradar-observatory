@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "a2f6861f86cda885589fb0cbb60bf4a723f4a5654248760960ff802fba1998d0",
+ "chain_head": "80c75ca3f452ab3a5faf378d21329240f6eac7597318f0bc37e422dec0f9bf5f",
  "alerts": [
+  {
+   "alert_id": "A-#67",
+   "branch": "A",
+   "chain_ts_ms": 1795798595006,
+   "creator": "9iaawVBEsFG35PSwd4PahwT8fYNQe9XYuRdWm872dUqY",
+   "detect_latency_s": 21.5,
+   "features": {
+    "bundle_share": 0.1439,
+    "buy_sol_20s": 46.3712,
+    "distinct_buyers": 59,
+    "top_buyer_share": 0.0777
+   },
+   "filter_version": "v1.0",
+   "graduations": 3,
+   "median_peak_1h": 2.3531677527254082,
+   "mint": "HANHXH8bS7YpjnjKddw9DLv8c5XkqCJCuErwvEKFpump",
+   "n_priors": 122,
+   "name": "Floki Santa",
+   "posted_ms": 1795798616538,
+   "posted_utc": "2026-11-27T16:56:56.538000+00:00",
+   "prev_hash": "a2f6861f86cda885589fb0cbb60bf4a723f4a5654248760960ff802fba1998d0",
+   "seq": 67,
+   "symbol": "FlokiSanta",
+   "hash": "80c75ca3f452ab3a5faf378d21329240f6eac7597318f0bc37e422dec0f9bf5f"
+  },
   {
    "alert_id": "A-#66",
    "branch": "A",
