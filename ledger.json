@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "cf4f726a766c1d945dfa3f7665ace5db334543558ca43551e7e264e4b384edf7",
+ "chain_head": "6151389344774ebaa2a89f63426e00cab39e914c9d87af95cb205c5dc7ab1316",
  "alerts": [
+  {
+   "alert_id": "A-#65",
+   "branch": "A",
+   "chain_ts_ms": 1795774123424,
+   "creator": "DxQ1iNidsGap2kr14VdEzA8NheqXabfh6fRkvZQbnZVY",
+   "detect_latency_s": 22.0,
+   "features": {
+    "bundle_share": 0.2883,
+    "buy_sol_20s": 77.2985,
+    "distinct_buyers": 123,
+    "top_buyer_share": 0.1682
+   },
+   "filter_version": "v1.0",
+   "graduations": 6,
+   "median_peak_1h": 3.5666418508987605,
+   "mint": "54T3CT2ky7nQrZVipXitsajS8TYqVKBk5ZttZiKPpump",
+   "n_priors": 31,
+   "name": "Winter is Coming",
+   "posted_ms": 1795774145415,
+   "posted_utc": "2026-11-27T10:09:05.415000+00:00",
+   "prev_hash": "cf4f726a766c1d945dfa3f7665ace5db334543558ca43551e7e264e4b384edf7",
+   "seq": 65,
+   "symbol": "WIC",
+   "hash": "6151389344774ebaa2a89f63426e00cab39e914c9d87af95cb205c5dc7ab1316"
+  },
   {
    "alert_id": "A-#64",
    "branch": "A",
