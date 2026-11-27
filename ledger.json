@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "072c3da0034a0a3e16517dd8743c521f6c2fceaa0de6e4ae93cfbbd289110213",
+ "chain_head": "2a4077a676ee320fa8c81ddb736c92577dba250fab4593a4becbb92daa40c5a3",
  "alerts": [
+  {
+   "alert_id": "A-#62",
+   "branch": "A",
+   "chain_ts_ms": 1795760917849,
+   "creator": "7WmZJMU65vNEzaHCuPSURii7LrA9Hos8z7gBp7Z7TUmZ",
+   "detect_latency_s": 37.0,
+   "features": {
+    "bundle_share": 0.2176,
+    "buy_sol_20s": 22.6177,
+    "distinct_buyers": 40,
+    "top_buyer_share": 0.0884
+   },
+   "filter_version": "v1.0",
+   "graduations": 1,
+   "median_peak_1h": 2.7919996422312625,
+   "mint": "7SRo8oUraohvi7aadwpAtRMEpZNgEgC4WP5Z8sD4pump",
+   "n_priors": 26,
+   "name": "Spinning Tornado Cat",
+   "posted_ms": 1795760954899,
+   "posted_utc": "2026-11-27T06:29:14.899000+00:00",
+   "prev_hash": "072c3da0034a0a3e16517dd8743c521f6c2fceaa0de6e4ae93cfbbd289110213",
+   "seq": 62,
+   "symbol": "STC",
+   "hash": "2a4077a676ee320fa8c81ddb736c92577dba250fab4593a4becbb92daa40c5a3"
+  },
   {
    "alert_id": "A-#61",
    "branch": "A",
