@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "154ba720840f066ff23055594faa07f6a96d91a9ca4c00ce621bcd6bb85a4a67",
+ "chain_head": "d71892535204c332eed484a31e0ec4f4c4d136ec23f139c5f0025762ed35c17c",
  "alerts": [
+  {
+   "alert_id": "A-#82",
+   "branch": "A",
+   "chain_ts_ms": 1795878084607,
+   "creator": "6MAmqJ7aGtTReML2DezAzmRckQyFoGfKKf6gWVak7P2d",
+   "detect_latency_s": 43.7,
+   "features": {
+    "bundle_share": 0.3408,
+    "buy_sol_20s": 94.2036,
+    "distinct_buyers": 138,
+    "top_buyer_share": 0.1592
+   },
+   "filter_version": "v1.0",
+   "graduations": 3,
+   "median_peak_1h": 6.938628869714385,
+   "mint": "55JJPbo5xEmSq6CeFqCQVMNTcb8JnS5DPVdnbHWNpump",
+   "n_priors": 13,
+   "name": "Zencoin",
+   "posted_ms": 1795878128336,
+   "posted_utc": "2026-11-28T15:02:08.336000+00:00",
+   "prev_hash": "154ba720840f066ff23055594faa07f6a96d91a9ca4c00ce621bcd6bb85a4a67",
+   "seq": 82,
+   "symbol": "Zen",
+   "hash": "d71892535204c332eed484a31e0ec4f4c4d136ec23f139c5f0025762ed35c17c"
+  },
   {
    "alert_id": "A-#81",
    "branch": "A",
