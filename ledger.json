@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "a9b892d0f695d5e2446336ea9e1999a45eed6b5f9c90bb0a128b2ddf98287023",
+ "chain_head": "7ce41e87047f44803371789304a4754fd72831c92a6b904fce25416fd3d69e5f",
  "alerts": [
+  {
+   "alert_id": "A-#70",
+   "branch": "A",
+   "chain_ts_ms": 1795826464421,
+   "creator": "5T98ZCF5zaorsWMqgNW12uDk4iY4QmdXT6wiJHhtfeuB",
+   "detect_latency_s": 21.7,
+   "features": {
+    "bundle_share": 0.1996,
+    "buy_sol_20s": 7.273,
+    "distinct_buyers": 15,
+    "top_buyer_share": 0.1588
+   },
+   "filter_version": "v1.0",
+   "graduations": 2,
+   "median_peak_1h": 3.7097700144054873,
+   "mint": "GD5Qbkhe5U2foTMC7E9nDs5SEXe81LXR8EW6du45s2WG",
+   "n_priors": 13,
+   "name": "HopeRescue",
+   "posted_ms": 1795826486098,
+   "posted_utc": "2026-11-28T00:41:26.098000+00:00",
+   "prev_hash": "a9b892d0f695d5e2446336ea9e1999a45eed6b5f9c90bb0a128b2ddf98287023",
+   "seq": 70,
+   "symbol": "HopeRescue",
+   "hash": "7ce41e87047f44803371789304a4754fd72831c92a6b904fce25416fd3d69e5f"
+  },
   {
    "alert_id": "A-#69",
    "branch": "A",
