@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "def528480ae30e92ac0e57ac1ab5a631c05e75b56ee7a420778c982fc8abe781",
+ "chain_head": "85bfe94ffd3f8b06651e19acd96074536309820256a81d0951bfa9f56344c085",
  "alerts": [
+  {
+   "alert_id": "A-#84",
+   "branch": "A",
+   "chain_ts_ms": 1795886269998,
+   "creator": "CoSBdHyBnZA8uAeu3fJn1mByCK3qeX2q6mqUVTsagDDT",
+   "detect_latency_s": 21.2,
+   "features": {
+    "bundle_share": 0.3161,
+    "buy_sol_20s": 51.9202,
+    "distinct_buyers": 94,
+    "top_buyer_share": 0.1522
+   },
+   "filter_version": "v1.0",
+   "graduations": 2,
+   "median_peak_1h": 3.375779427382884,
+   "mint": "6DDu7y64Ky2S5S2VuZa86jTqL7eDkm45GHL9fW1Xpump",
+   "n_priors": 16,
+   "name": "CHARITY",
+   "posted_ms": 1795886291152,
+   "posted_utc": "2026-11-28T17:18:11.152000+00:00",
+   "prev_hash": "def528480ae30e92ac0e57ac1ab5a631c05e75b56ee7a420778c982fc8abe781",
+   "seq": 84,
+   "symbol": "CHARITY",
+   "hash": "85bfe94ffd3f8b06651e19acd96074536309820256a81d0951bfa9f56344c085"
+  },
   {
    "alert_id": "A-#83",
    "branch": "A",
