@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "c798b7306bbc0543900f30a7109c6002fcf0a61e0af26ea891772127555b8c35",
+ "chain_head": "80deef1fba9d8c8eea0c686bf2afa6230ef9da0d62e28956e77080829f29ec9d",
  "alerts": [
+  {
+   "alert_id": "A-#75",
+   "branch": "A",
+   "chain_ts_ms": 1795848043827,
+   "creator": "DjM7Tu7whh6P3pGVBfDzwXAx2zaw51GJWrJE3PwtuN7s",
+   "detect_latency_s": 21.8,
+   "features": {
+    "bundle_share": 0.1896,
+    "buy_sol_20s": 78.8449,
+    "distinct_buyers": 105,
+    "top_buyer_share": 0.1015
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.2729486976315427,
+   "mint": "AeWu4GnmDqUZ8AKWvYYtegnxXRwJ9YuvZ5nKpPPbpump",
+   "n_priors": 46,
+   "name": "Bank Coin",
+   "posted_ms": 1795848065659,
+   "posted_utc": "2026-11-28T06:41:05.659000+00:00",
+   "prev_hash": "c798b7306bbc0543900f30a7109c6002fcf0a61e0af26ea891772127555b8c35",
+   "seq": 75,
+   "symbol": "BANK",
+   "hash": "80deef1fba9d8c8eea0c686bf2afa6230ef9da0d62e28956e77080829f29ec9d"
+  },
   {
    "alert_id": "A-#74",
    "branch": "A",
