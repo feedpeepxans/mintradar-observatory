@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "7ce41e87047f44803371789304a4754fd72831c92a6b904fce25416fd3d69e5f",
+ "chain_head": "b2cdc14515283128214439bd988048b92f41a1f19da461d8e8b2a6f40a5ab123",
  "alerts": [
+  {
+   "alert_id": "A-#71",
+   "branch": "A",
+   "chain_ts_ms": 1795829879260,
+   "creator": "DjM7Tu7whh6P3pGVBfDzwXAx2zaw51GJWrJE3PwtuN7s",
+   "detect_latency_s": 21.4,
+   "features": {
+    "bundle_share": 0.2438,
+    "buy_sol_20s": 60.9318,
+    "distinct_buyers": 86,
+    "top_buyer_share": 0.1641
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.2076625539134316,
+   "mint": "HmV5Nme96xV94E1oHiuhSARP2qkmpRQTHEfmBY7bpump",
+   "n_priors": 44,
+   "name": "The Cuck",
+   "posted_ms": 1795829900708,
+   "posted_utc": "2026-11-28T01:38:20.708000+00:00",
+   "prev_hash": "7ce41e87047f44803371789304a4754fd72831c92a6b904fce25416fd3d69e5f",
+   "seq": 71,
+   "symbol": "SHEEP",
+   "hash": "b2cdc14515283128214439bd988048b92f41a1f19da461d8e8b2a6f40a5ab123"
+  },
   {
    "alert_id": "A-#70",
    "branch": "A",
