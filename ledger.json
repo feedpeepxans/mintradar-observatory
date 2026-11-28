@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "8559a4e0e0dad43bacfcafaa1122dc49ba397371b7d05f35d08fe2eece42fa88",
+ "chain_head": "154ba720840f066ff23055594faa07f6a96d91a9ca4c00ce621bcd6bb85a4a67",
  "alerts": [
+  {
+   "alert_id": "A-#81",
+   "branch": "A",
+   "chain_ts_ms": 1795876752284,
+   "creator": "CoSBdHyBnZA8uAeu3fJn1mByCK3qeX2q6mqUVTsagDDT",
+   "detect_latency_s": 37.3,
+   "features": {
+    "bundle_share": 0.3897,
+    "buy_sol_20s": 41.854,
+    "distinct_buyers": 69,
+    "top_buyer_share": 0.2389
+   },
+   "filter_version": "v1.0",
+   "graduations": 1,
+   "median_peak_1h": 3.375779427382884,
+   "mint": "2rNXHv3NmzbvD3TSixKtSgY47yDNUGXA5wnvdY6jpump",
+   "n_priors": 14,
+   "name": "Official 2027",
+   "posted_ms": 1795876789595,
+   "posted_utc": "2026-11-28T14:39:49.595000+00:00",
+   "prev_hash": "8559a4e0e0dad43bacfcafaa1122dc49ba397371b7d05f35d08fe2eece42fa88",
+   "seq": 81,
+   "symbol": "2027",
+   "hash": "154ba720840f066ff23055594faa07f6a96d91a9ca4c00ce621bcd6bb85a4a67"
+  },
   {
    "alert_id": "A-#80",
    "branch": "A",
