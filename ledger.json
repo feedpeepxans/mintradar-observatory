@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "3fd0d58c1448f3cfd9c4c6ac06cf013fd50c3d55b65893ab63db56c962109144",
+ "chain_head": "85a607f1bd84c08461af15be6bbccfe343b58b676a36576d47a7b4de172b0626",
  "alerts": [
+  {
+   "alert_id": "A-#73",
+   "branch": "A",
+   "chain_ts_ms": 1795842639879,
+   "creator": "DjM7Tu7whh6P3pGVBfDzwXAx2zaw51GJWrJE3PwtuN7s",
+   "detect_latency_s": 21.2,
+   "features": {
+    "bundle_share": 0.2696,
+    "buy_sol_20s": 58.0847,
+    "distinct_buyers": 74,
+    "top_buyer_share": 0.1722
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.2729486976315427,
+   "mint": "CXoMyT2mWzqT2LL3j2gKQ8ha9xACV39sCuaCsobbpump",
+   "n_priors": 45,
+   "name": "Wide Latina Finance Index",
+   "posted_ms": 1795842661036,
+   "posted_utc": "2026-11-28T05:11:01.036000+00:00",
+   "prev_hash": "3fd0d58c1448f3cfd9c4c6ac06cf013fd50c3d55b65893ab63db56c962109144",
+   "seq": 73,
+   "symbol": "WLFI",
+   "hash": "85a607f1bd84c08461af15be6bbccfe343b58b676a36576d47a7b4de172b0626"
+  },
   {
    "alert_id": "A-#72",
    "branch": "A",
