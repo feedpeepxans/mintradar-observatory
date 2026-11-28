@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "552d35a12f2be0a66658387ac44cbf98b7ae28dc41fdd0babda233bf1e05be0c",
+ "chain_head": "0edb52758bc73c204426989d77270eff88ce1992f272244153649ed4799c0e99",
  "alerts": [
+  {
+   "alert_id": "A-#79",
+   "branch": "A",
+   "chain_ts_ms": 1795864740732,
+   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+   "detect_latency_s": 38.3,
+   "features": {
+    "bundle_share": 0.3244,
+    "buy_sol_20s": 67.0414,
+    "distinct_buyers": 76,
+    "top_buyer_share": 0.2536
+   },
+   "filter_version": "v1.0",
+   "graduations": 24,
+   "median_peak_1h": 3.1522080764418323,
+   "mint": "DjQthBmXBfphP8dHAjAgRqSRFvicAWTACeLhgX8Dpump",
+   "n_priors": 124,
+   "name": "Hold Or Miss Out",
+   "posted_ms": 1795864779048,
+   "posted_utc": "2026-11-28T11:19:39.048000+00:00",
+   "prev_hash": "552d35a12f2be0a66658387ac44cbf98b7ae28dc41fdd0babda233bf1e05be0c",
+   "seq": 79,
+   "symbol": "HOMO",
+   "hash": "0edb52758bc73c204426989d77270eff88ce1992f272244153649ed4799c0e99"
+  },
   {
    "alert_id": "A-#78",
    "branch": "A",
