@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "0edb52758bc73c204426989d77270eff88ce1992f272244153649ed4799c0e99",
+ "chain_head": "8559a4e0e0dad43bacfcafaa1122dc49ba397371b7d05f35d08fe2eece42fa88",
  "alerts": [
+  {
+   "alert_id": "A-#80",
+   "branch": "A",
+   "chain_ts_ms": 1795872735572,
+   "creator": "8QnWt1Epy5ErL9xJbzbKAfhQCxxMsHZ8if35TfQp26BE",
+   "detect_latency_s": 21.3,
+   "features": {
+    "bundle_share": 0.3756,
+    "buy_sol_20s": 66.8886,
+    "distinct_buyers": 116,
+    "top_buyer_share": 0.1121
+   },
+   "filter_version": "v1.0",
+   "graduations": 2,
+   "median_peak_1h": 3.3796479088443094,
+   "mint": "C3akbNNf9QHNGUYiy3cixf7DGjtoxqk2ENNH6cMapump",
+   "n_priors": 7,
+   "name": "Siphonops Maria ",
+   "posted_ms": 1795872756918,
+   "posted_utc": "2026-11-28T13:32:36.918000+00:00",
+   "prev_hash": "0edb52758bc73c204426989d77270eff88ce1992f272244153649ed4799c0e99",
+   "seq": 80,
+   "symbol": "MARIA",
+   "hash": "8559a4e0e0dad43bacfcafaa1122dc49ba397371b7d05f35d08fe2eece42fa88"
+  },
   {
    "alert_id": "A-#79",
    "branch": "A",
