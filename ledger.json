@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "db8fa5ff56533fce4d94f0ecf547f3b96ea17b1aaf491c4554507decc2b3a121",
+ "chain_head": "552d35a12f2be0a66658387ac44cbf98b7ae28dc41fdd0babda233bf1e05be0c",
  "alerts": [
+  {
+   "alert_id": "A-#78",
+   "branch": "A",
+   "chain_ts_ms": 1795863133207,
+   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+   "detect_latency_s": 21.8,
+   "features": {
+    "bundle_share": 0.2805,
+    "buy_sol_20s": 63.3344,
+    "distinct_buyers": 92,
+    "top_buyer_share": 0.2368
+   },
+   "filter_version": "v1.0",
+   "graduations": 24,
+   "median_peak_1h": 3.4102672851747697,
+   "mint": "3ZefuZKffVmaRdu5qBFy93tgGKqgwcYr1TtyhXM1pump",
+   "n_priors": 122,
+   "name": "We Literally Fuck Investors",
+   "posted_ms": 1795863154961,
+   "posted_utc": "2026-11-28T10:52:34.961000+00:00",
+   "prev_hash": "db8fa5ff56533fce4d94f0ecf547f3b96ea17b1aaf491c4554507decc2b3a121",
+   "seq": 78,
+   "symbol": "WLFI",
+   "hash": "552d35a12f2be0a66658387ac44cbf98b7ae28dc41fdd0babda233bf1e05be0c"
+  },
   {
    "alert_id": "A-#77",
    "branch": "A",
