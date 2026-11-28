@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "d71892535204c332eed484a31e0ec4f4c4d136ec23f139c5f0025762ed35c17c",
+ "chain_head": "def528480ae30e92ac0e57ac1ab5a631c05e75b56ee7a420778c982fc8abe781",
  "alerts": [
+  {
+   "alert_id": "A-#83",
+   "branch": "A",
+   "chain_ts_ms": 1795884700436,
+   "creator": "DjM7Tu7whh6P3pGVBfDzwXAx2zaw51GJWrJE3PwtuN7s",
+   "detect_latency_s": 59.5,
+   "features": {
+    "bundle_share": 0.1368,
+    "buy_sol_20s": 91.5182,
+    "distinct_buyers": 115,
+    "top_buyer_share": 0.0983
+   },
+   "filter_version": "v1.0",
+   "graduations": 4,
+   "median_peak_1h": 2.14237641019532,
+   "mint": "ChMSoitxHt2cYCqqJzQ3S5ZzFmNVtkZ4HW5qqDRupump",
+   "n_priors": 47,
+   "name": "nelson",
+   "posted_ms": 1795884759948,
+   "posted_utc": "2026-11-28T16:52:39.948000+00:00",
+   "prev_hash": "d71892535204c332eed484a31e0ec4f4c4d136ec23f139c5f0025762ed35c17c",
+   "seq": 83,
+   "symbol": "nelson",
+   "hash": "def528480ae30e92ac0e57ac1ab5a631c05e75b56ee7a420778c982fc8abe781"
+  },
   {
    "alert_id": "A-#82",
    "branch": "A",
