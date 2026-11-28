@@ -1,7 +1,32 @@
 {
  "brand": "MintRadar",
- "chain_head": "b2cdc14515283128214439bd988048b92f41a1f19da461d8e8b2a6f40a5ab123",
+ "chain_head": "3fd0d58c1448f3cfd9c4c6ac06cf013fd50c3d55b65893ab63db56c962109144",
  "alerts": [
+  {
+   "alert_id": "A-#72",
+   "branch": "A",
+   "chain_ts_ms": 1795833054705,
+   "creator": "Et1fXddAXcMPfhqNvXakqhnQt4nwNnMwicuh8zJG6wzv",
+   "detect_latency_s": 27.0,
+   "features": {
+    "bundle_share": 0.3938,
+    "buy_sol_20s": 59.8508,
+    "distinct_buyers": 98,
+    "top_buyer_share": 0.1337
+   },
+   "filter_version": "v1.0",
+   "graduations": 3,
+   "median_peak_1h": 3.9136649210977,
+   "mint": "8W1iJsknSoHeCrcHbqLTB9MnuBdzzhKX3mo8cjnSkkim",
+   "n_priors": 21,
+   "name": "\u306a\u308b\u3068",
+   "posted_ms": 1795833081699,
+   "posted_utc": "2026-11-28T02:31:21.699000+00:00",
+   "prev_hash": "b2cdc14515283128214439bd988048b92f41a1f19da461d8e8b2a6f40a5ab123",
+   "seq": 72,
+   "symbol": "Naruto",
+   "hash": "3fd0d58c1448f3cfd9c4c6ac06cf013fd50c3d55b65893ab63db56c962109144"
+  },
   {
    "alert_id": "A-#71",
    "branch": "A",
